@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hae repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Ota Python 3.12 käyttöön
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
