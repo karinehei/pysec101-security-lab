@@ -1,0 +1,45 @@
+# Virtuaaliympäristöt
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testaus ja kattavuus
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Ruff ja muut työkalut
+.ruff_cache/
+.mypy_cache/
+.tox/
+
+# Salaisuudet ja paikallinen ympäristö
+.env
+.env.*
+
+# Opiskelijan paikallinen palautustiedosto
+submission/app.py
+
+# Paketointi
+build/
+dist/
+*.egg-info/
+
+# IDE ja käyttöjärjestelmä
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db

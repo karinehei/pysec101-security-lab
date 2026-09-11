@@ -1,0 +1,1 @@
+"""Harjoituksen tarkoituksellisesti turvaton lähtökoodi."""

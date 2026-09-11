@@ -1,0 +1,1 @@
+"""Turvallinen malliratkaisu rekisteröintiesimerkille."""
